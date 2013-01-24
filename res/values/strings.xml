@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">获取PublicKey</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hint">将用签名打过的包装载手机里，在列表中找到该应用\n点击 应用，公钥 生成在  sd/publickey.txt 中（仅限一个，会覆盖,Log中有输入key）</string>
+
+</resources>
